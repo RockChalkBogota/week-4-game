@@ -1,0 +1,35 @@
+body{
+    background-image: url("../images/deuswall.jpg")
+}
+.box{
+	display: inline-block;
+	background-color: grey;
+	height: 90%;
+	width: 50%;
+	color: cyan;
+}
+p{
+	margin: 20px 20px;
+}
+.randomNumber{
+	background-color: grey;
+	margin-top: 25px;
+	width: 150px;
+    height: 110px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.scoreboard{
+	background-color: grey;
+	margin: 25px 0px 0px 30px;
+	width: 150px;
+	height: 110px;
+	color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.image{
+	width: 200px;
+	height: 200px;
+}
